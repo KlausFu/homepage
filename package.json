@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "popper.js": "^1.14.4",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "bootstrap": "^4.3.1"
   },
   "devDependencies": {},
